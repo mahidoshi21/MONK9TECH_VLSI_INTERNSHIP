@@ -16,6 +16,7 @@ This repository documents my **day-to-day activities, learnings, and hands-on wo
 
 * VLSI fundamentals
 * ASIC design flow
+* Chip Designing
 * RTL design basics
 * Verification concepts
 * Industry-oriented best practices
