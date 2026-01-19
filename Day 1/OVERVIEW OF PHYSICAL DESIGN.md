@@ -11,10 +11,7 @@ The goal of this repository is to:
 ## 🧠 ASIC Design Overview
 The following diagram (extracted from the presentation) illustrates the high-level ASIC design flow and major building blocks:
 
-![ASIC Design Overview](![WhatsApp Image 2026-01-19 at 11 32 14 PM](https://github.com/user-attachments/assets/6f6d878d-a634-471f-ad83-e273babc9fcf))
-
-
-> **Note:** The image is taken directly from the original presentation and represents the conceptual ASIC architecture and design flow.
+(![WhatsApp Image 2026-01-19 at 11 32 14 PM](https://github.com/user-attachments/assets/6f6d878d-a634-471f-ad83-e273babc9fcf))
 
 ## 🔄 Design Flow
 The ASIC design process covered in this project includes:
@@ -66,5 +63,6 @@ This project follows the licensing terms defined by Monk9 Tech. Please contact t
 
 ---
 **Monk9 Tech – ASIC Design & Engineering**
+
 
 
