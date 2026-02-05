@@ -1,9 +1,5 @@
 # 🏗️ Physical Design Made Easy!!
 
-**By Anoushka Tripathi – VLSI Engineer, Monk9 Tech Private Limited**
-
----
-
 ## 📘 Introduction
 
 Physical Design (PD) is the process of transforming a chip design from a **logical description** into a **manufacturable silicon layout**. While often perceived as complex due to heavy jargon and tool-centric explanations, PD is fundamentally about **planning, connectivity, power, and timing**—much like designing a city with roads, power lines, and neighborhoods.
@@ -200,3 +196,4 @@ CTS ensures:
 * Build **strong conceptual clarity** in Physical Design
 * Help beginners approach PD with confidence
 * Prepare learners for tool-based implementation
+
