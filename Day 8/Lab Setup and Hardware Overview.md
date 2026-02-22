@@ -75,4 +75,9 @@ The **Sonpapdi FPGA board** is used in training labs to demonstrate how digital 
 * Observing signal behavior in real hardware
 * Practicing FPGA programming workflows
 
-https://pyjamacafe.com//images/soanpapdi/soanpapdi.jpg
+## 🔌 Sonpapdi FPGA Board
+
+The Sonpapdi FPGA board is used in lab sessions to understand how digital logic designs are implemented on programmable hardware.  
+It allows students to test RTL designs and observe real hardware behavior.
+
+![Sonpapdi FPGA Board](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0VivoKRZ-dAe7Qtey3kLAEbcl18MRbFBEQ&s)
